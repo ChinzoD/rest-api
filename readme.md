@@ -1,5 +1,5 @@
-# Stores REST Api
+# Stores REST API
 
-This is built with Flask, Flask-RESTful, Flask_JWT, and Flask-SQLAlchemy.
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
 
 Deployed on Heroku.
